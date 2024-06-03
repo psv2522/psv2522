@@ -62,11 +62,22 @@
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
 </div>
 
+
+
+
+<h3 align="left">Reach out to me here</h3>
+
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Sykkuno">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=j1wyvxo6747e2daxtp7a69aas&count=5&unique=true" alt="Spotify recently played"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/psv2522" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:psv2522@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/psv2522" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
   </a>
 </div>
 
@@ -82,19 +93,11 @@
 
 ###
 
-<h3 align="left">Reach out to me here</h3>
-
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/psv2522" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:psv2522@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/psv2522" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/Sykkuno">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=j1wyvxo6747e2daxtp7a69aas&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
