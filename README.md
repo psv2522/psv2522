@@ -89,12 +89,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/psv2522/psv2522/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/Sykkuno">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=j1wyvxo6747e2daxtp7a69aas&count=5&unique=true" alt="Spotify recently played"  />
