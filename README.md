@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React Native and Kubernetes<br>🎯 Goals: Shipping something of my own used by millionsof users<br> 🏫Computer Engineering Major from COEP Technological University, Pune</p>
+<p align="left">✨  Coding, learning and improving since 2020<br>📚 Currently learning Kubernetes<br>🎯 Goals: Shipping something of my own that is used by millions<br> 🏫Computer Engineering Major from COEP Technological University, Pune</p>
 
 ###
 
