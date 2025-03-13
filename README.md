@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name Prathmesh and I'm Software Developer and a Computer Engineering Undergrad from Pune, India</p>
+<p align="left">My name Prathmesh and I'm Software Developer and a Computer Engineer from Pune, India</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  Coding, learning and improving since 2020<br>📚 Currently learning Golang and Kubernetes<br>🎯 Goals: Shipping something of my own that is used by millions<br> 🏫Computer Engineering Major from COEP Technological University, Pune</p>
+<p align="left">✨  Coding, learning and improving since 2020<br>📚 Currently learning Golang and Kubernetes<br>🎯 Goals: Shipping something of my own that is used by millions<br> 🏫2024 Computer Engineering Major from COEP Technological University, Pune</p>
 
 ###
 
