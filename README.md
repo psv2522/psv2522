@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  Coding, learning and improving since 2020<br>📚 Currently learning Golang and Kubernetes<br>🎯 Goals: Shipping something of my own that is used by millions<br> 🏫2024 Computer Engineering Major from COEP Technological University, Pune</p>
+<p align="left">✨  Coding, learning and improving since 2020<br>👨‍💻 Currently building products end to end<br>🎯 Goals: Shipping something of my own that is used by millions<br> 🏫2024 Computer Engineering Major from COEP Technological University, Pune</p>
 
 ###
 
