@@ -82,9 +82,4 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/psv2522/count.svg?"  />
-</div>
-
 ###
